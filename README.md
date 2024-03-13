@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/Calculadora-de-Soma-Simples/assets/98216100/370b5fd6-1701-47cb-84f2-4058f3397f1a)
+
 # Calculadora de Soma Simples
 * A Calculadora de Soma Simples é um projeto em Python que oferece uma maneira fácil e rápida para os usuários realizarem operações de adição. Ao solicitar que o usuário insira dois números, o programa realiza a soma e exibe o resultado de forma clara.
 
