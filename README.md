@@ -10,8 +10,8 @@
   
 # 👷 Autor
 
-* **Angelo Silvano** - *Front-End Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/link_do_Perfil)
 
 ## 📄 Licença
 
-* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Calculadora-de-Soma-Simples?tab=MIT-1-ov-file).  
+* Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Calculadora-de-Soma-Simples?tab=MIT-1-ov-file).  
