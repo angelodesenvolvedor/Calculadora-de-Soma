@@ -8,3 +8,10 @@
 
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
+# 👷 Autor
+
+* **Angelo Silvano** - *Front-End Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
+
+## 📄 Licença
+
+* Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).  
